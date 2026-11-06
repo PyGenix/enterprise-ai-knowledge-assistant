@@ -1,0 +1,3 @@
+Northstar Labs IT Support Guide (fictional demo)
+
+If an employee loses a company laptop, they must call the IT help desk immediately and open a security incident ticket. Include the asset tag and the last known location in the ticket.
