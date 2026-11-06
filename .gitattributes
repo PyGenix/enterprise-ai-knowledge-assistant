@@ -6,3 +6,16 @@ frontend/** linguist-vendored
 package-lock.json linguist-generated
 static/** linguist-vendored
 templates/** linguist-vendored
+
+# Hide infra/templates so GitHub language stats stay Python-only.
+Dockerfile linguist-vendored
+**/Dockerfile linguist-vendored
+*.dockerfile linguist-vendored
+*.sh linguist-vendored
+*.mako linguist-vendored
+alembic/** linguist-vendored
+.render.yaml linguist-vendored
+render.yaml linguist-vendored
+docker-compose.yml linguist-vendored
+compose.yaml linguist-vendored
+.github/** linguist-vendored
